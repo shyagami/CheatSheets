@@ -3,7 +3,7 @@
 Just a place to store cheatsheets. Feel free to use!
 
 
-This is a fork from Lucas Lacerda
+This is a fork from Aaron Wright
 
 ## Support him!
 
@@ -13,7 +13,6 @@ If you like any of this, consider supporting him 🙂
 
 ## Let's Connect 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgertel/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shernandez-it/)
 
 
